@@ -23,7 +23,7 @@ public class App extends Application {
 
     private GraphicsContext graphicsContext;
     private SnakeGame snakeGame;
-
+//
     @Override
     public void start(Stage stage) {
         initializeUuserInterface(stage);
